@@ -27,11 +27,11 @@
 * 🚀 Eager to learn and grow.
 * 🎓 Bachelor of Technology Undergrad in Computer Science and Information Technology.
 
-<h2>Tools I Have Used and Learned &nbsp; ⚙️</h2>
+<h2>Tech Stack &nbsp; ⚙️</h2>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"  alt="ubuntu" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" alt="linux mint" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  alt="git" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=github" alt="github" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/>
