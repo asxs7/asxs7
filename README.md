@@ -4,7 +4,7 @@
 
 <h2> Hello World!, I'm Ashish👋🏼: </h2>
 
-* 🛜 currently working on my own webpage
+* 🛜 Currently working on my own webpage
 * ⛵ Interested in open source collaborations
 * 🌱 Curious, driven to learn
 * 🎓 Midway through my BTech in Computer Science
