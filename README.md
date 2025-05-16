@@ -9,7 +9,7 @@
 * 🌱 Curious, driven to learn
 * 🎓 Midway through my BTech in Computer Science
 
-<h2>Tech Stack &nbsp; </h2>
+<h2>Tech Stack 💻&nbsp; </h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="48" height="48"/>
