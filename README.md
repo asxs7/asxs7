@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Greetings,%20Coders!&fontAlign=50&fontAlignY=40&color=gradient" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Greetings,%20Coders!&fontAlign=50&fontAlignY=35&color=gradient&desc=Welcome%20to%20my%20Profile!&descAlign=50&descAlignY=65" alt="Banner"/>
 </p>
+
+<!--div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=2E98FF&center=true&vCenter=true&random=false&width=500&lines=Hey+there!;I'm+asxs7!;Happy+Coding!" alt="Typing SVG" />
+</div-->
 
 <h2> Hello World!, I'm Ashish👋🏼: </h2>
 
@@ -27,8 +31,11 @@
   <a href="#">
   <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=asxs7&show_icon=true&theme=transparent&rank_icon=github"/>
   </a>
-  <a href="#">
+  <!--a href="#">
     <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asxs7&layout=compact&langs_count=8&card_width=320&theme=transparent"/>
+</a-->
+   <a href="#">
+  <img height="165" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asxs7&theme=transparent"/>
   </a>
 </p>
   
