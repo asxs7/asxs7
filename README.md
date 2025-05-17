@@ -29,21 +29,28 @@
 
 <p align="center">
   <a href="#">
-  <img height=165 align="center" src="https://github-readme-stats.vercel.app/api?username=asxs7&show_icon=true&theme=transparent&rank_icon=github"/>
+    <img height=165 
+         align="center" 
+         src="https://github-readme-stats.vercel.app/api?username=asxs7&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&cache_seconds=0" 
+         alt="GitHub Stats"/>
   </a>
-  <!--a href="#">
-    <img height=165 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asxs7&layout=compact&langs_count=8&card_width=320&theme=transparent"/>
-</a-->
-   <a href="#">
-  <img height="165" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asxs7&theme=transparent"/>
-  </a>
-</p>
   
-<hr>
+  <a href="#">
+    <img height="165" 
+         align="center" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=asxs7&theme=transparent&date_format=d-M-y&cache_seconds=0" 
+         alt="GitHub Streak"/>
+  </a>
 
-<!--p align="center">
-  <img height=32 src="https://komarev.com/ghpvc/?username=asxs7&label=Visitors&color=blueviolet&style=plastic" alt="Visitor-count" 
-</p-->
+  <!--a href="#">
+    <img height=165 
+         align="center" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=asxs7&layout=compact&langs_count=8&card_width=320&theme=transparent&cache_seconds=0" 
+         alt="Top Languages"/>
+  </a-->
+</p>
+
+<hr>
   
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&section=footer" alt="Banner"/>
