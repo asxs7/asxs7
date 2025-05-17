@@ -20,9 +20,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html5" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/>
+  <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  alt="git" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github" alt="github" width="48" height="48"/>
+  <!--img src="https://skillicons.dev/icons?i=github" alt="github" width="48" height="48"/-->
 </p>
 
 <h2>Github Stats &nbsp;📊</h2>
