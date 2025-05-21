@@ -35,11 +35,11 @@
          alt="GitHub Stats"/>
   </a>
   
-  <!--a href="#">
+  <a href="#">
     <img height="165" 
          align="center" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=asxs7&theme=transparent&date_format=d-M-y&cache_seconds=0" 
-         alt="GitHub Streak"/-->
+         alt="GitHub Streak"/>
   </a>
 
   <a href="#">
