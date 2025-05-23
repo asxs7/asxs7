@@ -21,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css3" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  alt="git" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" alt="blender" width="48" height="48"/>
   <!--img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="48" height="48"/-->
   <!--img src="https://skillicons.dev/icons?i=github" alt="github" width="48" height="48"/-->
 </p>
@@ -31,21 +32,21 @@
   <a href="#">
     <img height=165 
          align="center" 
-         src="https://github-readme-stats.vercel.app/api?username=asxs7&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&cache_seconds=0.0" 
+         src="https://github-readme-stats.vercel.app/api?username=asxs7&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&cache_seconds=0" 
          alt="GitHub Stats"/>
   </a>
   
   <a href="#">
     <img height="165" 
          align="center" 
-         src="https://github-readme-streak-stats.herokuapp.com/?user=asxs7&theme=transparent&date_format=d-M-y&cache_seconds=0.0" 
+         src="https://github-readme-streak-stats.herokuapp.com/?user=asxs7&theme=transparent&date_format=d-M-y&cache_seconds=0" 
          alt="GitHub Streak"/>
   </a>
 
   <a href="#">
     <img height=165 
          align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=asxs7&layout=compact&langs_count=8&card_width=320&theme=transparent&cache_seconds=0.0" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=asxs7&layout=compact&langs_count=8&card_width=320&theme=transparent&cache_seconds=0" 
          alt="Top Languages"/>
   </a>
 </p>
