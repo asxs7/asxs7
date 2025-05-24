@@ -10,7 +10,7 @@
 
 * 🛜 Currently working on my own webpage
 * ⛵ Interested in open source collaborations
-* 🌱 Curious, driven to learn
+* 🍳 Trying to cook
 * 🎓 Midway through my BTech in Computer Science
 
 <h2>Tech Stack 💻&nbsp; </h2>
